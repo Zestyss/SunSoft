@@ -2,7 +2,7 @@
 
 > Status: Finalizado ✅
 
-### Projeto para disciplina de Desenvolvimento e Aplicações para Internet.
+### Site criado para vendas de placa solares.
 
 ## Equipe:
 
